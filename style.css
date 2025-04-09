@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+
+}
+
+h1{
+    font-size: 60px;
+    position: absolute;
+    left: 350px;
+    color: aliceblue;
+    border-radius: 12px;
+}
+
+img{
+    width: 100%;
+    display: block;
+    border-radius: 100px;
+    
+}
